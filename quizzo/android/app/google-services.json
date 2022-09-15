@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "298480493888",
+    "project_id": "quizzo-f4626",
+    "storage_bucket": "quizzo-f4626.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:298480493888:android:d9e6e02353b04401ee46a5",
+        "android_client_info": {
+          "package_name": "dev.adithya.quizzo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "298480493888-168cf419gudq59re8dpk86pb560ue1l8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "dev.adithya.quizzo",
+            "certificate_hash": "d05421b90f045ba75bcdedacffcd02ea8542a4d0"
+          }
+        },
+        {
+          "client_id": "298480493888-t3tjdmu7guj76a4k8ugbpdjcdh017p6n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDvNkk4kl7JOfJuirS868snrO8D_0rBeeI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "298480493888-t3tjdmu7guj76a4k8ugbpdjcdh017p6n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

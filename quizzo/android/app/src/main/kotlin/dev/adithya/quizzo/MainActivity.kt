@@ -1,4 +1,4 @@
-package dev.adithya.quizapp.quizzo
+package dev.adithya.quizzo
 
 import io.flutter.embedding.android.FlutterActivity
 

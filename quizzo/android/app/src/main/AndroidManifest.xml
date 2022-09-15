@@ -1,5 +1,5 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="dev.adithya.quizapp.quizzo">
+    package="dev.adithya.quizzo">
    <application
         android:label="quizzo"
         android:name="${applicationName}"
